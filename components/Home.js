@@ -1,13 +1,15 @@
-import styles from '../styles/Home.module.css';
+import AddItemForm from './AddItemForm';
+import GroceryList from './GroceryList';
 
 function Home() {
   return (
-    <div>
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-      </main>
+    <div className='container'>
+      <h1>🛒 Ma liste de courses</h1>
+
+      <div className='layout'>
+        <AddItemForm />
+        <GroceryList />
+      </div>
     </div>
   );
 }
