@@ -33,4 +33,4 @@ Et **crée** le fichier `reducers/groceries.js` from scratch.
 
 > tu peux installer l'extension **Redux DevTools** dans ton navigateur, ça t'aidera énormément à débugger.
 
-Bon courage 🛒
+Bon courage !
