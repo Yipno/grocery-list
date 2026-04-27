@@ -5,7 +5,7 @@ Mini-projet Next.js pour pratiquer Redux Toolkit.
 ## Setup
 
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/Yipno/grocery-list.git
 cd grocery-redux
 yarn
 yarn dev
